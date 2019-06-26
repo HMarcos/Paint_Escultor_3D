@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aqui vai um pequeno tutorial de como usar e manipular este simples "paint 3D" criado para o projeto de programação avançada da UFRN da terceira unidade. Para conseguir usar esta pequena aplicação é relativamente simples, basta seguir os passos que seguem :
 
  1) Ao abrir a tela inicial, será visto vários sliders diferentes, que podem ser mudados pelo usuário ao longo do uso, mas a atenção inicialmente deve ser dada às palavras escritas na parte superior da tela. Antes de iniciar um desenho qualquer, deve-se, antes, escolher as dimensões da "caixa" na qual deseja-se fazer o desenho. Escolhidas as dimensões, clicando na opção "escultor", aparecerá um conjunto de linhas que formam pequenos quadradinhos, onde este será o espaço para o desenho. Assim, pode-se ir para o próximo passo.
@@ -7,4 +8,6 @@ Aqui vai um pequeno tutorial de como usar e manipular este simples "paint 3D" cr
   3) Escolhida a figura desejada para desenhar, parte-se para o desenho em si. Para realizá-lo, deve-se, antes, clicar na figura geométrica que se deseja desenhar. Feito isso, você vai a algum dos quadradinhos que estão lá quando foram escolhidas as dimensões, e clica em qualquer um deles. Se você escolheu desenhar um voxel, por exemplo, aparecerá uma cor preta preenchida, pois as cores iniciais estavam em 0, considerando que não se mexeu nela (o tópico será abordado em seguida), mas se escolheu uma esfera de raio R, por exemplo, será desenhada uma esfera centrada onde você clicou com raio R, e assim se fará para as outras figuras geométricas.
 
   4)Feitos os apontamentos anteriores, existem mais algumas possibilidades que a aplicação oferece. Por exemplo, como o nome é "paint 3D" e só se faz desenho 2D, há a possiblidade do usuário modificar o plano de desenho, de 0 até o tamanho da dimensão escolhida pelo usuário menos 1, e também modificar a sua cor. Para este último, há duas possibilidades : clicar numa caixa de diálogo, onde há escrito "escolher cor" ou mexer nos sliders onde cada letra representa a inicial de sua respectiva cor em inglês. E por último, existe o botão "geomview", que permite visualização de sua pintura em 3D. Assim, divirta-se!
+=======
+>>>>>>> 232979bfb448ff4f8d9ad1c2481f8f9cfafa162f
 
