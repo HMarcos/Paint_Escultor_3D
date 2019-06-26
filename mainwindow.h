@@ -8,7 +8,7 @@ class MainWindow;
 }
 /**
  * @brief The MainWindow class
- * Classe que representa a janela principal da aplicacao, que consiste em um paint para um escultor, o qual eh uma matriz 3D composta por voxels.
+ * representa a janela principal da aplicacao, que consiste em um paint para um escultor, o qual eh uma matriz 3D composta por voxels.
  */
 class MainWindow : public QMainWindow
 {

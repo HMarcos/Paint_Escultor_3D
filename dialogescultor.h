@@ -9,7 +9,7 @@ class DialogEscultor;
 
 /**
  * @brief The DialogEscultor class
- * Representa uma caixa de dialogo na qual o usuario escolhe as dimensões do escultor
+ * representa uma caixa de dialogo na qual o usuario escolhe as dimensões do escultor
  */
 class DialogEscultor : public QDialog
 {
